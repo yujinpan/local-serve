@@ -1,5 +1,7 @@
 # private project
 public/gtkjjcxxpt
+package-lock.json
+public
 
 # idea
 .idea
